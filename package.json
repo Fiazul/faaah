@@ -1,5 +1,5 @@
 {
-  "name": "faah-sound",
+  "name": "faaaaaaaaaaaah-sound",
   "displayName": "Faah Sound",
   "description": "Plays a 'FAAAH!' sound when a task, debug session, or terminal command fails.",
   "publisher": "ryoma-faah",
@@ -17,6 +17,6 @@
   "contributes": {},
   "repository": {
     "type": "git",
-    "url": "https://github.com/your-username/faah-sound"
+    "url": "https://github.com/Fiazul/faaah.git"
   }
 }

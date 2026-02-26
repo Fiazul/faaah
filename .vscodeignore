@@ -1,0 +1,6 @@
+.vscode/**
+.git/**
+.gitignore
+vsc-extension-quickstart.md
+new_test.py
+*.vsix
