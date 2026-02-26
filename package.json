@@ -1,0 +1,22 @@
+{
+  "name": "faah-sound",
+  "displayName": "Faah Sound",
+  "description": "Plays a 'FAAAH!' sound when a task, debug session, or terminal command fails.",
+  "publisher": "ryoma-faah",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Other"
+  ],
+  "activationEvents": [
+    "onStartupFinished"
+  ],
+  "main": "./extension.js",
+  "contributes": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/faah-sound"
+  }
+}
